@@ -32,7 +32,7 @@ header - section
    height: 60px;          /* تم تصغير الارتفاع ليناسب الأبعاد الجديدة */
    width: auto;           /* يمنع تمطيط الشعار ويحافظ على أبعاده */
    object-fit: contain;   /* يضمن احتواء اللوجو داخل المساحة المتاحة */
-   display: block;;
+   display: block;
 }
 
 /* Desktop Nav */
